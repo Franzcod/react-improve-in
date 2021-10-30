@@ -1,0 +1,31 @@
+.cont {
+    width: fit-content;
+    max-width: 130px;
+    height: 100px;
+    /* background-color: red; */
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    color: #0063d5;
+    text-decoration: none;
+
+
+}
+
+
+.img>* {
+    width: 60px;
+    height: 60px;
+    margin: 20px auto;
+    /* background-color: blue; */
+
+}
+
+.name {
+    /* background-color: green; */
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}

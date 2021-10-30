@@ -1,0 +1,540 @@
+{
+  "bands": [
+    {
+      "id": 1,
+      "name": "Kiss",
+      "genreCode": "hard-rock",
+      "year": 1973,
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4e85269a1f35917eddeadefd",
+      "country": "United States",
+      "members": [
+        {
+          "name": "Paul Stanley"
+        },
+        {
+          "name": "Gene Simmons"
+        },
+        {
+          "name": "Ace Frehley"
+        },
+        {
+          "name": "Peter Criss"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Aerosmith",
+      "genreCode": "hard-rock",
+      "year": 1970,
+      "image": "https://rockandblog.net/wp-content/uploads/2020/01/concierto-aerosmith-madrid-2020.jpg",
+      "country": "United States",
+      "members": [
+        {
+          "name": "Steven Tyler"
+        },
+        {
+          "name": "Tom Hamilton"
+        },
+        {
+          "name": "Joe Perry"
+        },
+        {
+          "name": "Brad Whitford"
+        },
+        {
+          "name": "Joey Kramer"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "The Beatles",
+      "genreCode": "rock-roll",
+      "year": 1960,
+      "image": "https://i.musicaimg.com/letras/resmax/the-beatles.jpg",
+      "country": "United Kingdom",
+      "members": [
+        {
+          "name": "John Lennon"
+        },
+        {
+          "name": "Paul McCartney"
+        },
+        {
+          "name": "George Harrison"
+        },
+        {
+          "name": "Ringo Starr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Angra",
+      "genreCode": "power-metal",
+      "year": 1991,
+      "image": "https://i2.wp.com/metalfamily.es/wp-content/uploads/2020/12/ANGRA.jpg?fit=1431%2C1235&ssl=1",
+      "country": "Brazil",
+      "members": [
+        {
+          "name": "Andre Matos"
+        },
+        {
+          "name": "Rafael Bittencourt"
+        },
+        {
+          "name": "Kiko Loureiro"
+        },
+        {
+          "name": "Luís Mariutti"
+        },
+        {
+          "name": "Ricardo Confessori"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Metallica",
+      "genreCode": "heavy-metal",
+      "year": 1981,
+      "image": "https://www.terra.com.mx/u/fotografias/m/2021/10/25/f608x342-27651_57374_0.jpg",
+      "country": "United States",
+      "members": [
+        {
+          "name": "James Hetfield"
+        },
+        {
+          "name": "Lars Ulrich"
+        },
+        {
+          "name": "Kirk Hammett"
+        },
+        {
+          "name": "Robert Trujillo"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Iron Maiden",
+      "genreCode": "heavy-metal",
+      "year": 1975,
+      "image": "https://www.diariodeunrockero.es/wp-content/uploads/2021/08/Iron-Maiden-Featured.jpg",
+      "country": "United Kingdom",
+      "members": [
+        {
+          "name": "Bruce Dickinson"
+        },
+        {
+          "name": "Steve Harris"
+        },
+        {
+          "name": "Dave Murray"
+        },
+        {
+          "name": "Adrian Smith"
+        },
+        {
+          "name": "Nicko McBrain"
+        },
+        {
+          "name": "Janick Gers"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Cradle of Filth",
+      "genreCode": "black-metal",
+      "year": 1991,
+      "image": "https://www.ecured.cu/images/0/01/Cradle_of_Filth.jpg",
+      "country": "United Kingdom",
+      "members": [
+        {
+          "name": "Dani Filth"
+        },
+        {
+          "name": "Martin 'Marthus' Škaroupka"
+        },
+        {
+          "name": "Daniel Firth"
+        },
+        {
+          "name": "Richard Shaw"
+        },
+        {
+          "name": "Marek 'Ashok' Šmerda"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Within Temptation",
+      "genreCode": "goth-metal",
+      "year": 1996,
+      "image": "https://static.posters.cz/image/1300/calendarios/within-temptation-i28538.jpg",
+      "country": "Netherlands",
+      "members": [
+        {
+          "name": "Sharon den Adel"
+        },
+        {
+          "name": "Jeroen van Veen"
+        },
+        {
+          "name": "Ruud Jolie"
+        },
+        {
+          "name": "Martijn Spierenburg"
+        },
+        {
+          "name": "Mike Coolen"
+        },
+        {
+          "name": "Stefan Helleblad"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Queen",
+      "genreCode": "rock",
+      "year": 1970,
+      "image": "https://fondosmil.com/fondo/5909.png",
+      "country": "United Kingdom",
+      "members": [
+        {
+          "name": "Freddie Mercury"
+        },
+        {
+          "name": "Brian May"
+        },
+        {
+          "name": "Roger Taylor"
+        },
+        {
+          "name": "John Deacon"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Pearl Jam",
+      "genreCode": "grunge",
+      "year": 1990,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmt3_R4jxPnKsDIh4MzVwBKBjUI2t3ofAhZ_EVbjtfzoIUIVzPHUSOz0EePVtICv-qQgQ&usqp=CAU",
+      "country": "United States",
+      "members": [
+        {
+          "name": "Eddie Vedder"
+        },
+        {
+          "name": "Mike McCready"
+        },
+        {
+          "name": "Stone Gossard"
+        },
+        {
+          "name": "Jeff Ament"
+        },
+        {
+          "name": "Matt Cameron"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Rhapsody of Fire",
+      "genreCode": "power-metal",
+      "year": 1995,
+      "image": "https://tarrazu.files.wordpress.com/2010/04/rhapsody-of-fire-frozen-tears-of-angels-tarrazu-wordpress.jpg",
+      "country": "Italy",
+      "members": [
+        {
+          "name": "Luca Turilli"
+        },
+        {
+          "name": "Fabio Lione"
+        },
+        {
+          "name": "Patrice Guers"
+        },
+        {
+          "name": "Alex Staropoli"
+        },
+        {
+          "name": "Alex Holzwarth"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Dream Theater",
+      "genreCode": "progressive-metal",
+      "year": 1985,
+      "image": "https://rockandblog.net/wp-content/uploads/2021/03/dream-theater-new-album-2021.jpg",
+      "country": "United States",
+      "members": [
+        {
+          "name": "John Petrucci"
+        },
+        {
+          "name": "John Myung"
+        },
+        {
+          "name": "James LaBrie"
+        },
+        {
+          "name": "Jordan Rudess"
+        },
+        {
+          "name": "Mike Portnoy"
+        }
+      ]
+    }
+  ],
+  "genre": [
+    {
+      "code": "rock",
+      "name": "Rock"
+    },
+    {
+      "code": "rock-roll",
+      "name": "Rock & Roll"
+    },
+    {
+      "code": "hard-rock",
+      "name": "Hard Rock"
+    },
+    {
+      "code": "grunge",
+      "name": "Grunge"
+    },
+    {
+      "code": "heavy-metal",
+      "name": "Heavy Metal"
+    },
+    {
+      "code": "power-metal",
+      "name": "Power Metal"
+    },
+    {
+      "code": "black-metal",
+      "name": "Black Metal"
+    },
+    {
+      "code": "progressive-metal",
+      "name": "Progressive Metal"
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "bandId": 12,
+      "name": "Images and Words",
+      "image": "https://img.discogs.com/JtD4AHkEDqJuDZ-YKZyJI911ii4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1960778-1255173784.jpeg.jpg",
+      "year": 1992
+    },
+    {
+      "id": 1,
+      "bandId": 12,
+      "name": "Awake",
+      "image": "https://m.media-amazon.com/images/I/71sKlUUHFZL._SL1198_.jpg",
+      "year": 1994
+    },
+    {
+      "id": 1,
+      "bandId": 12,
+      "name": "Metropolis Pt. 2: Scenes from a Memory",
+      "image": "https://i2.wp.com/www.scienceofnoise.net/wp-content/uploads/2017/07/81PWfsET2xL._SL1425_.jpg",
+      "year": 1999
+    },
+    {
+      "id": 1,
+      "bandId": 1,
+      "name": "Hotter than Hell",
+      "image": "http://kissmania.net/wp-content/uploads/2020/10/htt-kiss-cover.jpg",
+      "year": 1974
+    },
+    {
+      "id": 1,
+      "bandId": 1,
+      "name": "Lick It Up",
+      "image": "https://lastfm.freetls.fastly.net/i/u/770x0/385b61a7c733817058d04888ef611112.jpg",
+      "year": 1983
+    },
+    {
+      "id": 1,
+      "bandId": 1,
+      "name": "Crazy Nights",
+      "image": "https://i.etsystatic.com/9611346/r/il/8a3536/1371206122/il_570xN.1371206122_2pop.jpg",
+      "year": 1987
+    },
+    {
+      "id": 1,
+      "bandId": 1,
+      "name": "Psycho Circus",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_602152-MLA43219332639_082020-W.jpg",
+      "year": 1998
+    },
+    {
+      "id": 1,
+      "bandId": 2,
+      "name": "Aerosmith",
+      "image": "https://i.pinimg.com/originals/3d/6a/0b/3d6a0b82ca3e4be7c1973bcc2cbd5bb2.jpg",
+      "year": 1973
+    },
+    {
+      "id": 1,
+      "bandId": 2,
+      "name": "Pump",
+      "image": "https://plazamusica.com.ar/wp-content/uploads/2020/12/R-1008180-1459499314-1961.jpeg.jpg",
+      "year": 1989
+    },
+    {
+      "id": 1,
+      "bandId": 2,
+      "name": "Get a Grip",
+      "image": "https://heavyfonia.files.wordpress.com/2018/04/aerosmith1.jpg",
+      "year": 1993
+    },
+    {
+      "id": 1,
+      "bandId": 11,
+      "name": "Symphony of Enchanted Lands",
+      "image": "https://i2.wp.com/www.scienceofnoise.net/wp-content/uploads/2018/10/soel.jpg",
+      "year": 1998
+    },
+    {
+      "id": 1,
+      "bandId": 11,
+      "name": "Dawn of Victory",
+      "image": "https://i0.wp.com/www.scienceofnoise.net/wp-content/uploads/2020/10/60-Rhapsody-Dawn-of-Victory.jpg",
+      "year": 2000
+    },
+    {
+      "id": 1,
+      "bandId": 11,
+      "name": "Power of the Dragonflame",
+      "image": "https://img.discogs.com/CqOb-GsaGm_L38o1d1dhHugdFL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1043751-1306321427.jpeg.jpg",
+      "year": 2002
+    },
+    {
+      "id": 1,
+      "bandId": 3,
+      "name": "A Hard Day's Night",
+      "image": "https://lh3.googleusercontent.com/proxy/pb280WF0Una6xqaRApMMg-w4154ouZl87O3eZ3Yd0HLS_dESBN_HoZEoK8bWCy9L-pDm8cDWBf4M1NSX2ZmdfnylMCFF3Qxl3qKYdVmYkMzPxKGDVpoNoSu7iv7tR14dUA",
+      "year": 1964
+    },
+    {
+      "id": 1,
+      "bandId": 3,
+      "name": "Help!",
+      "image": "https://juan314.files.wordpress.com/2011/11/robert-freeman-help-cover.jpg",
+      "year": 1965
+    },
+    {
+      "id": 1,
+      "bandId": 3,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band",
+      "image": "http://1.bp.blogspot.com/-3EvW6glcT1M/T5t1xIQ5qLI/AAAAAAAAAcI/mvAAyuWdwVA/s1600/sgt-pepper.jpg",
+      "year": 1967
+    },
+    {
+      "id": 1,
+      "bandId": 4,
+      "name": "Angels Cry",
+      "image": "https://img.discogs.com/FznrBmhpg3UJSTv0y4FSY-Y2h5Q=/fit-in/600x600/filters:strip_icc():format(webp):mode_rgb():quality(90)/discogs-images/R-2526805-1347364471-1727.jpeg.jpg",
+      "year": 1992
+    },
+    {
+      "id": 1,
+      "bandId": 4,
+      "name": "Holy Land",
+      "image": "https://studiosol-a.akamaihd.net/uploadfile/letras/albuns/d/a/c/7/9311560251045.jpg",
+      "year": 1996
+    },
+    {
+      "id": 1,
+      "bandId": 4,
+      "name": "Rebirth",
+      "image": "https://img.discogs.com/t7Wz-W5BGmWIUcMisgymguvcp-8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1125048-1347317330-3026.jpeg.jpg",
+      "year": 2001
+    },
+    {
+      "id": 1,
+      "bandId": 8,
+      "name": "Mother Earth",
+      "image": "https://ladobmusica.com.ar/pub/media/catalog/product/cache/2c246b008315a461dd64781fe12af0bd/h/e/hellion0010.jpg",
+      "year": 2000
+    },
+    {
+      "id": 1,
+      "bandId": 8,
+      "name": "The Heart of Everything",
+      "image": "https://m.media-amazon.com/images/I/71f7Fo+5nPL._SL1500_.jpg",
+      "year": 2007
+    },
+    {
+      "id": 1,
+      "bandId": 8,
+      "name": "Hydra",
+      "image": "https://img.discogs.com/bG81mJ0_bNlokgx5bDCzVo_XUxk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5362681-1391518298-2220.jpeg.jpg",
+      "year": 2014
+    },
+    {
+      "id": 1,
+      "bandId": 6,
+      "name": "The Number of the Beast",
+      "image": "https://www.todorock.com/wp-content/uploads/2019/03/iron-maiden-number-of-the-beast-1200x1200.jpg",
+      "year": 1982
+    },
+    {
+      "id": 1,
+      "bandId": 6,
+      "name": "Somewhere in Time",
+      "image": "https://www.todorock.com/wp-content/uploads/2019/03/somewhere-in-time-iron-maiden-1200x1200.jpg",
+      "year": 1986
+    },
+    {
+      "id": 1,
+      "bandId": 6,
+      "name": "Fear of the Dark",
+      "image": "https://www.todorock.com/wp-content/uploads/2019/05/fear-of-the-dark-iron-maiden-1200x1200.jpg",
+      "year": 1992
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "test_1",
+      "email": "test_1@test.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "username": "test_2",
+      "email": "test_2@test.com",
+      "password": "123456"
+    },
+    {
+      "username": "test_3",
+      "email": "test_3@test.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "email": "test_4@test.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "username": "test_5",
+      "email": "test_5@test.com",
+      "password": "123456",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+.divKing {
+    /* background-color: aliceblue; */
+}
+
+.fullContainer {
+    width: 100%;
+    height: fit-content;
+    min-height: 100vh;
+    /* background-color: aliceblue; */
+
+}
+
+.userBanner {
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px 5px 10px;
+}
+
+.user {
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.btnLogout {
+    background-color: #0063d5;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.band {
+    /* background-color: #0063d5; */
+    /* width: 100%; */
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-around; */
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+    padding: 30px;
+
+}
+
+
+
+.pages {
+    display: flex;
+    justify-content: center;
+    /* background-color: red; */
+    width: 100%;
+}
+
+.btnPage {
+    color: rgba(0, 0, 0, 0.747);
+    font-size: calc(1em + .3vw);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    width: fit-content;
+    height: fit-content;
+    align-items: center;
+    padding: 5px 10px;
+    outline: auto;
+    outline-color: grey;
+    outline-style: groove;
+    border-radius: 5px;
+    cursor: pointer;
+    /* background-color: yellow; */
+}
+
+
+.contSpinner {
+    margin: auto;
+
+}
+
+.filters {
+    display: flex;
+    border-radius: 5px;
+    padding: 10px;
+
+    margin: 30px auto;
+    width: fit-content;
+    height: fit-content;
+    background-color: rgba(148, 148, 145, 0.144);
+}
+
+.filters .country {
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: red; */
+    outline: auto;
+    outline-color: #0063d5;
+    outline-width: medium;
+    padding: 5px;
+    margin: 0 15px;
+    /* width: 30%; */
+    /* cursor: pointer; */
+}
+
+.filters .genre {
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: greenyellow; */
+    outline: auto;
+    outline-color: #0063d5;
+    outline-width: medium;
+    padding: 5px;
+    margin: 0 15px;
+    /* width: 30%; */
+    /* cursor: pointer; */
+}
+
+.filters .seeAll {
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: greenyellow; */
+    outline: auto;
+    outline-color: #0063d5;
+    outline-width: medium;
+    padding: 5px;
+    margin: 0 15px;
+    /* width: 30%; */
+    cursor: pointer;
+}
+
+select {
+    border: none;
+    cursor: pointer;
+}
+
+
+.contSpinner {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    /* background-color: red; */
+    justify-content: center;
+}
+
+.contSpinner>* {
+    width: 10%;
+    height: 10%;
+    margin-top: 10%;
+}

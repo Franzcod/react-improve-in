@@ -1,0 +1,17 @@
+.cont {
+    width: 50%;
+    max-width: 400px;
+}
+
+
+.buttonLogin {
+    cursor: pointer;
+    width: 100%;
+    height: 30px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    font-family: Arial;
+    font-weight: bold;
+}
