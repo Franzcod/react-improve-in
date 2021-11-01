@@ -3,6 +3,10 @@ react-improve-in challenge
 
 ## Available Scripts
 
+## install Json-Server
+
+### `npm install -g json-server`
+
 In the / src folder:
 
 ### `json-server --watch db.json`
