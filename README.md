@@ -3,10 +3,11 @@ react-improve-in challenge
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the / src folder:
 
 ### `json-server --watch db.json`
 
+In the project directory, you can run:
 
 ### `npm install`
 
